@@ -1,7 +1,7 @@
-#-*-coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 
-import streamlit as st
-import seaborn as sns
+import streamlit as st 
+import seaborn as sns 
 
 @st.cache_data
 def load_data():
